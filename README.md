@@ -68,5 +68,3 @@ Input(6).jpeg
 Merge
 Input(7).jpeg
 Gmail draft
-
-My workflow.json

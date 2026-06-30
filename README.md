@@ -62,10 +62,10 @@ Nodes:
 ![Workflow Overview](Email%20Automation%20replying%20workflow.jpeg)
 
 ### Email Node
-![Email Node](Input(2).jpeg)
+![Email Node](Input%20(2).jpeg)
 
 ### AI Agent Node
-![AI Agent Node](Input(3).jpeg)
+![AI Agent Node](Input%20(3).jpeg)
 
 ### IF Node
 ![IF Node](Input(4).jpeg)

@@ -68,16 +68,14 @@ Nodes:
 ![AI Agent Node](Input%20(3).jpeg)
 
 ### IF Node
-![IF Node](Input(4).jpeg)
+![IF Node](input%20(4).jpeg)
 
 ### OpenAI Order Node
-![OpenAI Order Node](Input(5).jpeg)
+![OpenAI Order Node](Input%20(5).jpeg)
 
 ### OpenAI Inquiry Node
-![OpenAI Inquiry Node](Input(6).jpeg)
+![OpenAI Inquiry Node](Input%20(6).jpeg)
 
 ### Merge Node
-![Merge Node](Input(7).jpeg)
+![Merge Node](Input%20(7).jpeg)
 
-### Email Draft Node
-![Email Draft Node](Input(8).jpeg)

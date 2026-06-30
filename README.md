@@ -56,25 +56,28 @@ Automated email responses
 Practical business process automation
 Nodes:
 
+## 📸 Screenshots
+
 ### Workflow Overview
-![Workflow Overview](Email Automation replying workflow.jpeg)
+![Workflow Overview](Email%20Automation%20replying%20workflow.jpeg)
 
 ### Email Node
 ![Email Node](Input(2).jpeg)
 
-### Ai Agent Node
-![Ai Agent Node](Input(3).jpeg)
+### AI Agent Node
+![AI Agent Node](Input(3).jpeg)
 
 ### IF Node
 ![IF Node](Input(4).jpeg)
 
-### Open AI Order Node
-![Open Ai order Node](Input(5).jpeg)
+### OpenAI Order Node
+![OpenAI Order Node](Input(5).jpeg)
 
-### Open AI inquiry Node
-![Open Ai inquiry Node](Input(6).jpeg)
+### OpenAI Inquiry Node
+![OpenAI Inquiry Node](Input(6).jpeg)
 
 ### Merge Node
 ![Merge Node](Input(7).jpeg)
 
-Email Draft Node
+### Email Draft Node
+![Email Draft Node](Input(8).jpeg)

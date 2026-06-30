@@ -55,16 +55,26 @@ Conditional branching using IF nodes
 Automated email responses
 Practical business process automation
 Nodes:
-Gmail trigger
-Input(2).jpeg
-Ai Agent
-Input(3).jpeg
-If
-Input(4).jpeg
-Open Ai "order"
-Input (5).jpeg
-Open Ai "inquiry"
-Input(6).jpeg
-Merge
-Input(7).jpeg
-Gmail draft
+
+### Workflow Overview
+![Workflow Overview](Email Automation replying workflow.jpeg)
+
+### Email Node
+![Email Node](Input(2).jpeg)
+
+### Ai Agent Node
+![Ai Agent Node](Input(3).jpeg)
+
+### IF Node
+![IF Node](Input(4).jpeg)
+
+### Open AI Order Node
+![Open Ai order Node](Input(5).jpeg)
+
+### Open AI inquiry Node
+![Open Ai inquiry Node](Input(6).jpeg)
+
+### Merge Node
+![Merge Node](Input(7).jpeg)
+
+Email Draft Node
